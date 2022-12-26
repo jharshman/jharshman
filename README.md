@@ -1,16 +1,25 @@
-### Hi there 👋
+<div align="center">
+<img src="./images/gopher_me.png" width="150"><br>
+<div>
+<a href="https://www.linkedin.com/in/joshuaharshman">
+<img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue&style=for-the-badge"/>
+</a>
+</div>
+</div>
 
-<!--
-**jharshman/jharshman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div class="header">
+<h2>
+About Me:
+</h2>
+</div>
 
-Here are some ideas to get you started:
+<div>
+:mage_man: Staff Software Engineer @ Bitly<br>
+:zap: Go Nerd<br>
+:rocket: Kubernetes Wiz<br>
+:penguin: Linux Neckbeard<br>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![mountains](./images/mountain_range.png)
+
