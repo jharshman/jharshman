@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./images/gopher_me.png" width="150"><br>
+<img src="./images/gopher_me.png" width="150"/><br>
 <div>
 <a href="https://www.linkedin.com/in/joshuaharshman">
 <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue&style=for-the-badge"/>
@@ -20,6 +20,16 @@ About Me:
 :penguin: Linux Neckbeard<br>
 </div>
 
+<div class="header">
+<h2>
+Technologies:
+</h2>
+</div>
+
+<div>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"/>
+</div>
 
 ![mountains](./images/mountain_range.png)
 
