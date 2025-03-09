@@ -14,7 +14,7 @@ About Me:
 </div>
 
 <div>
-:mage_man: Principal Architect @ Bitly<br>
+:mage_man: Principal Architect & Manager @ Bitly<br>
 :zap: Go Nerd<br>
 :rocket: Kubernetes Wiz<br>
 :penguin: Linux Neckbeard<br>
